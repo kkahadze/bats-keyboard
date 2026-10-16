@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>Bats</string>
 	<key>CFBundleVersion</key>
-	<string></string>
+	<string>1.0.0</string>
 	<key>KLInfo_Bats</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -19,5 +19,7 @@
 		<key>TISIntendedLanguage</key>
 		<string>bbl-Geor-GE</string>
 	</dict>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
 </dict>
 </plist>
